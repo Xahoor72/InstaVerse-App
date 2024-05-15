@@ -1,0 +1,3 @@
+[submodule "server/insta-verse-app"]
+	path = server/insta-verse-app
+	url = https://github.com/Xahoor72/insta-verse-app.git
